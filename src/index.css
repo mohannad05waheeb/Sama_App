@@ -1,0 +1,11 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+ 
+.react-tel-input .form-control {
+    background-color: #001f3f !important;
+    color: white !important  ;     
+    border: none !important;
+    outline: none !important;
+}
+  
